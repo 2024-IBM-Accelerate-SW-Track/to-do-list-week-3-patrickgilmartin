@@ -1,5 +1,9 @@
 import React, { Component } from "react";
+<<<<<<< HEAD
 import {Navbar, Nav, Container} from 'react-bootstrap'
+=======
+import {Navbar, Nav, NavDropdown, Container} from 'react-bootstrap'
+>>>>>>> 6c174a370c08c86a2581337c2cea2fc9edbe9de3
 
 import {
     BrowserRouter as Router,
